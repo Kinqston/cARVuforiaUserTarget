@@ -1,31 +1,19 @@
 fileFormatVersion: 2
-guid: fa7884a7fd4c6ab44bfb134ea49fc0fb
-timeCreated: 1510790667
+guid: dd5813807d595f3408a533bdfb6ddb60
+timeCreated: 1512800706
 licenseType: Free
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 21
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
     4300000: Voss
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_voss1
-    second: {fileID: 2100000, guid: 35cdc1b77d23e9a4ba05236c43f8e154, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_voss_bolt
-    second: {fileID: 2100000, guid: 03fc8c66f34690e419f8cd03a1e3fb7e, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -38,7 +26,6 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5

@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 77b12cf28befc2446981ea2e3cb62741
-timeCreated: 1512800703
+guid: ba6d314704f95314e95017fa33311abf
+timeCreated: 1512947746
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Vossen
+    4300000: Opel
   materials:
     importMaterials: 1
     materialName: 0

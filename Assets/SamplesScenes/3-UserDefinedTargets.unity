@@ -383,6 +383,10 @@ Prefab:
       propertyPath: m_TagString
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1161205825467456, guid: 907f240ab5808d949b9b92a8ff5ebebf, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 907f240ab5808d949b9b92a8ff5ebebf, type: 2}
   m_IsPrefabParent: 0
@@ -3171,5 +3175,11 @@ MonoBehaviour:
   - {fileID: 1161205825467456, guid: 907f240ab5808d949b9b92a8ff5ebebf, type: 2}
   - {fileID: 1311129491780908, guid: 18c2c4a8332980c44ac6105b4794731f, type: 2}
   - {fileID: 1234278627143756, guid: b779ff53f7c02014a94a1afae209d056, type: 2}
+  - {fileID: 1779768425835108, guid: b59b04a6e06d5404fb6eff7db866b846, type: 2}
+  - {fileID: 1466722993057942, guid: 3f21e9f7a0df66c4caeec520efd2194b, type: 2}
+  - {fileID: 1072137777371344, guid: 5c27647281c7cf04ead8e3c67124e87d, type: 2}
+  - {fileID: 1860476961832140, guid: d7adafc2aa6539f48aabdf27c86997aa, type: 2}
+  - {fileID: 1728618890943284, guid: 6862eca44f9d7ba4ab58ace788cc9c21, type: 2}
+  - {fileID: 1611745472094458, guid: 3a65ea6604eea524ea5ff69cc5ee808a, type: 2}
   - {fileID: 1466530286515596, guid: 3533f02776fd68c418cdbfb680072c6d, type: 2}
   _prefabs: {fileID: 0}

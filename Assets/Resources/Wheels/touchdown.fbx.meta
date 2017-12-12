@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 77b12cf28befc2446981ea2e3cb62741
-timeCreated: 1512800703
+guid: df0dfad849a0f8d49b2b90a9585fda6d
+timeCreated: 1513003084
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Vossen
+    4300000: touchdown
   materials:
     importMaterials: 1
     materialName: 0
