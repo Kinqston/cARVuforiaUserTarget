@@ -160,6 +160,7 @@ public class UDTEventHandler : MonoBehaviour, IUserDefinedTargetEventHandler
     /// Instantiates a new user-defined target and is also responsible for dispatching callback to 
     /// IUserDefinedTargetEventHandler::OnNewTrackableSource
     /// </summary>
+
     public void BuildNewTarget()
     {
         if (m_FrameQuality == ImageTargetBuilder.FrameQuality.FRAME_QUALITY_MEDIUM ||
