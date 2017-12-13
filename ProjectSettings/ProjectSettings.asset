@@ -7,7 +7,7 @@ PlayerSettings:
   productGUID: 6bd17b46c8d0a49008eae92a19ce4f16
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
-  defaultScreenOrientation: 0
+  defaultScreenOrientation: 3
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
@@ -147,7 +147,8 @@ PlayerSettings:
   resolutionScalingMode: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Android: Rus.Kolesa
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
@@ -250,7 +251,7 @@ PlayerSettings:
     m_Devices: []
   m_BuildTargetEnableVuforiaSettings:
   - m_BuildTarget: Android
-    m_Enabled: 0
+    m_Enabled: 1
   - m_BuildTarget: iOS
     m_Enabled: 1
   - m_BuildTarget: Metro
